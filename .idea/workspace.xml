@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19a1b0cf-2f4a-401c-857c-701c10ba9277" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GcA8slCMqEUz8MnTFuymfENJoW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.thresholding">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/labtestproj/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grayscale" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grayscale.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imreadpractice" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/labtestproj/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imreadpractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/labtestproj/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rotation" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swapchannel" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/labtestproj/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swapchannel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thresholding" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/labtestproj/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thresholding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vidcappractice" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/labtestproj/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vidcappractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoseparatepractice" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labtestproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/labtestproj/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/videoseparatepractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.vidcappractice" />
+      <item itemvalue="Python.videoseparatepractice" />
+      <item itemvalue="Python.swapchannel" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.imreadpractice" />
+      <item itemvalue="Python.rotation" />
+      <item itemvalue="Python.grayscale" />
+      <item itemvalue="Python.thresholding" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19a1b0cf-2f4a-401c-857c-701c10ba9277" name="Default Changelist" comment="" />
+      <created>1666677341848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666677341848</updated>
+      <workItem from="1666677349366" duration="4539000" />
+      <workItem from="1667296272833" duration="7101000" />
+      <workItem from="1667370373026" duration="1980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="124" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667371963465">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="184" y="109" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1667285857602" />
+    <state x="184" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.820@0.25.1440.820" timestamp="1667371963465" />
+    <state x="184" y="124" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.821@0.25.1440.821" timestamp="1667289630793" />
+    <state x="348" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1667287303327">
+      <screen x="0" y="25" width="1440" height="821" />
+    </state>
+    <state x="348" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.821@0.25.1440.821" timestamp="1667287303327" />
+    <state x="347" y="25" key="#grayscale" timestamp="1667299791815">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="347" y="25" key="#grayscale/0.25.1440.820@0.25.1440.820" timestamp="1667299791815" />
+    <state x="347" y="25" key="#rotation" timestamp="1667299418920">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="347" y="25" key="#rotation/0.25.1440.820@0.25.1440.820" timestamp="1667299418920" />
+    <state x="347" y="25" key="#thresholding" timestamp="1667303415360">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="347" y="25" key="#thresholding/0.25.1440.820@0.25.1440.820" timestamp="1667303415360" />
+    <state x="479" y="319" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1667370959196">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="479" y="319" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.820@0.25.1440.820" timestamp="1667370959196" />
+    <state x="399" y="265" key="FileChooserDialogImpl" timestamp="1667371888424">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="399" y="265" key="FileChooserDialogImpl/0.25.1440.820@0.25.1440.820" timestamp="1667371888424" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom" timestamp="1667372138798">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1667286929616" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1667372138798" />
+    <state width="1238" height="245" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1667289639220" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center" timestamp="1667372138797">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1667286929615" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1667372138797" />
+    <state width="1238" height="245" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1667289639219" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left" timestamp="1667372138797">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1667286929614" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1667372138797" />
+    <state width="1238" height="245" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1667289639219" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right" timestamp="1667372138798">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1667286929615" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1667372138798" />
+    <state width="1238" height="245" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1667289639219" />
+    <state x="229" y="71" key="SettingsEditor" timestamp="1667371970289">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="229" y="71" key="SettingsEditor/0.25.1440.820@0.25.1440.820" timestamp="1667371970289" />
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1667296273123">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1667296273123" />
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog/0.25.1440.821@0.25.1440.821" timestamp="1666677349548" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/labtestproj$swapchannel.coverage" NAME="swapchannel Coverage Results" MODIFIED="1667298878659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$labtestproj.coverage" NAME="labtestproj Coverage Results" MODIFIED="1667289540340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$videoseparatepractice.coverage" NAME="videoseparatepractice Coverage Results" MODIFIED="1667298499456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$vidcappractice.coverage" NAME="vidcappractice Coverage Results" MODIFIED="1667298380328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$thresholding.coverage" NAME="thresholding Coverage Results" MODIFIED="1667372138788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$grayscale.coverage" NAME="grayscale Coverage Results" MODIFIED="1667302827007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$imreadpractice.coverage" NAME="imreadpractice Coverage Results" MODIFIED="1667296617198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$rotation.coverage" NAME="rotation Coverage Results" MODIFIED="1667299420650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/labtestproj$labtest.coverage" NAME="labtest Coverage Results" MODIFIED="1667289339995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
